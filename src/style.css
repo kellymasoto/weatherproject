@@ -12,7 +12,7 @@ body {
   padding: 30px 30px 50px 30px;
   border-radius: 25px;
   border: none;
-  background-color: #fbfaf7;
+  background-color: #fffcfc;
 }
 
 a {
@@ -33,7 +33,7 @@ input[type="submit"] {
   background-position: center;
   background-size: cover;
   border: none;
-  color: #fff;
+  color: #f3e16e;
   padding: 22px 45px;
   border-radius: 10px;
   font-size: 18px;
