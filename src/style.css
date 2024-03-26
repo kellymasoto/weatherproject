@@ -25,7 +25,7 @@ input[type="search"] {
   border-radius: 10px;
   font-size: 18px;
   width: 70%;
-  background-color: rgba(225, 192, 47, 0.4);
+  background-color: rgba(81, 80, 78, 0.4);
   box-shadow: 3px 3px 10px rgba(224, 222, 213, 0.9);
 }
 
@@ -33,7 +33,7 @@ input[type="submit"] {
   background-position: center;
   background-size: cover;
   border: none;
-  color: #f3e16e;
+  color: rgba(81, 80, 78, 0.4);
   padding: 22px 45px;
   border-radius: 10px;
   font-size: 18px;
@@ -61,7 +61,7 @@ h1 {
 }
 
 .sky-conditions {
-  color: #e4cf57;
+  color: rgba(81, 80, 78, 0.4);
 }
 
 .atmosphere {
@@ -99,7 +99,7 @@ footer p {
   text-align: center;
   font-size: 15px;
   padding: 30px 0 0 0;
-  border-top: rgba(28, 33, 65, 0.4) solid 0.1px;
+  border-top: rgba(81, 80, 78, 0.4), solid 0.1px;
   position: relative;
   top: 40px;
 }
