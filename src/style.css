@@ -1,5 +1,5 @@
 body {
-  background-image: url("weatherproject/images.jpeg");
+  background-image: url("images/images.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -31,7 +31,7 @@ input[type="search"] {
 }
 
 input[type="submit"] {
-  background-image: url("weatherproject/desert weather.jpeg");
+  background-image: url("images/desert weather.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
