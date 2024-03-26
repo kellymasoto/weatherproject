@@ -1,12 +1,11 @@
 body {
-  background-image: url("images/desert weather.jpeg");
+  background-image: url("images/images.jpeg");
   background-position: center;
   background-size: cover;
   font-family: "Roboto", sans-serif;
 }
 
 .weather-app {
-  background-image: url("images/images.jpeg");
   width: fit-content;
   margin: 50px auto 0;
   box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.4);
