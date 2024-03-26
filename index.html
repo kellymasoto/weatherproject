@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>weatherapp</title>
+  </head>
+  <body>
+    <div class="weather-app">
+      <header>
+        <form id="search-form">
+          <input
+            type="search"
+            placeholder="Enter a city..."
+            required
+            id="search-input"
+          />
+
+          <input type="submit" value="Search" />
+        </form>
+      </header>
+
+      <main>
+        <div class="weather-info">
+          <div>
+            <h1 id="city-name"></h1>
+            <p>
+              <span class="time" id="time"></span>
+              <span class="sky-conditions" id="condition"></span>
+              <br />
+              <span class="atmosphere">
+                Humidity: <span id="humidity"></span> | Wind:
+                <span id="wind"></span
+              ></span>
+            </p>
+          </div>
+
+          <div class="temperature">
+            <div id="icon"></div>
+            <div class="value" id="temp-value"></div>
+            <div class="unit">&deg;C</div>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <p>
+          This project was coded by
+          <a href="https://github.com/kellymasoto" target="_blank"
+            >Kelly Masoto</a
+          >
+          and is
+          <a
+            href="https://github.com/kellymasoto/weatherproject"
+            target="_blank"
+            >open-sourced on Github</a
+          >
+          and
+          <a href="https://jazzy-squirrel-5e5a34.netlify.app/" target="_blank"
+            >hosted on Netlify.</a
+          >
+        </p>
+      </footer>
+    </div>
+    <script src="src/script.js"></script>
+  </body>
+</html>
