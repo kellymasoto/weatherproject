@@ -1,7 +1,6 @@
 body {
   background-image: url("images/images.jpeg");
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
   font-family: "Roboto", sans-serif;
 }
@@ -26,14 +25,13 @@ input[type="search"] {
   border-radius: 10px;
   font-size: 18px;
   width: 70%;
-  background-color: rgba(224, 222, 213, 0.4);
+  background-color: rgba(225, 192, 47, 0.4);
   box-shadow: 3px 3px 10px rgba(224, 222, 213, 0.9);
 }
 
 input[type="submit"] {
   background-image: url("images/desert weather.jpeg");
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
   border: none;
   color: #fff;
