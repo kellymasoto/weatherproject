@@ -12,7 +12,7 @@ body {
   padding: 30px 30px 50px 30px;
   border-radius: 25px;
   border: none;
-  background-color: #f0eee5;
+  background-color: #fbfaf7;
 }
 
 a {
@@ -61,7 +61,7 @@ h1 {
 }
 
 .sky-conditions {
-  color: #5c7390;
+  color: #e4cf57;
 }
 
 .atmosphere {
