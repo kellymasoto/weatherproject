@@ -15,6 +15,26 @@ body {
   background-color: #fffcfc;
 }
 
+.weather-forecasting {
+  text-align: center;
+  margin-top: 20px;
+  color: #000;
+}
+
+.weather-forecasting-date {
+  font-size: 16px;
+  color: rgba(81, 80, 78, 0.4);
+  opacity: 0.6;
+}
+
+.weather-forecasting-temperature {
+  font-size: 13px;
+}
+
+.weather-forecasting-temperature.min {
+  opacity: 0.5;
+}
+
 a {
   color: rgba(28, 33, 65, 0.8);
 }
